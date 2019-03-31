@@ -1,2 +1,2 @@
 # TX-FM4
-Emetteur FM 20 ou 30 watts pilotable ne usb par le mode HID (Human Interface Device)
+Emetteur FM 20 ou 30 watts pilotable par un port usb en mode HID (Human Interface Device)
